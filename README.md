@@ -44,6 +44,12 @@ The app provides an interface for connecting to a data lake, fetching table sche
 - Execute: Execute a SQL query on the data lake.
 - Request Authorization: Request authorization for certain operations.
 
+## Upcoming features
+
+- Added support to more data sources
+- Support for data graphs 
+- Improvised chat interface
+  
 ## Note
 
 Please replace `YOUR_API_KEY`, `YOUR_TENANT`, `your_username`, and `your_password` with your actual API key, tenant, username, and password, respectively.
