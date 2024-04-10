@@ -1,6 +1,6 @@
 import jaydebeapi
 import pandas as pd
-from config import jdbc_url, username, password, driver_path
+from config import jdbc_url, driver, username, password, driver_path
 
 def connect_to_datalake(tenant):
     conn = jaydebeapi.connect(
