@@ -47,6 +47,7 @@ The app provides an interface for connecting to a data lake, fetching table sche
 ## Upcoming features
 
 - Added support to more data sources
+- API support
 - Support for data graphs 
 - Improvised chat interface
   
