@@ -4,8 +4,8 @@ from config import jdbc_url, username, password, driver_path
 
 def connect_to_datalake(tenant):
     conn = jaydebeapi.connect(
-        "com.infor.idl.jdbc.Driver",
-        jdbc_url + tenant,
+        driver,
+        url + tenant,
         {"user": username, "password": password},
         driver_path,
     )
