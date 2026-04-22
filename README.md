@@ -1,5 +1,7 @@
 # SmartInsights - chat with your enterprise data
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This tool is designed to facilitate data exploration and visualization. It uses Streamlit for the web interface, pandas for data manipulation, Plotly for data visualization, and jaydebeapi for database connectivity.
 
 Watch the video https://youtu.be/l1pLM7Ub3So
